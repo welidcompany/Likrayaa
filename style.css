@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f0fff0;
+    color: #004d00;
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: linear-gradient(90deg, #228B22, #006400);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    width: 80px;
+    margin-top: 10px;
+}
+nav {
+    margin-top: 15px;
+}
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+main {
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 0 0 10px #ccc;
+}
+footer {
+    background-color: #004d00;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+ul {
+    list-style: square;
+}
+h1, h2, h3 {
+    color: #006400;
+}
